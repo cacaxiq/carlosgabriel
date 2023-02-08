@@ -420,6 +420,7 @@ a:active {
     padding: 20px 0;
     margin-bottom: 30px;
     background: rgba(144, 144, 144, 0.78);
+    height: 160px;
 }
 
 .skill-item i {
